@@ -1,0 +1,2 @@
+# PIBIC-WavePropagation-ProfDiego2024-202x
+ PIBIC Scholarship Project under the supervision of Diego Nunes Brandão, focused on applying Computational Methods for Marine Petroleum Exploration. This research involves The project aims to develop an effective wave propagation model exploring algorithmic optimization techniques and it's mathematical structures.The tools and results from the project will be used for data analysis and interpretation in marine environments.
